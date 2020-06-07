@@ -1,0 +1,15 @@
+.user-card{
+	border: solid black 2px;
+	margin: 2px;
+	text-align: center;
+}
+
+.user-card-image{
+	width: 100%;
+}
+
+.user-list-container{
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+    grid-gap: 20px;
+}

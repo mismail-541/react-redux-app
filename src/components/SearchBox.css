@@ -1,0 +1,12 @@
+.search-box{
+	text-align: center;
+	color: black;
+	font-family: 'Harry Potter Regular';
+	font-size: 35px;
+  	padding:3% 10% 7% 10%;
+  	background-size: 90%;
+	background-image:url("http://www.clipartkid.com/images/672/western-scroll-banner-clip-art-clipart-panda-free-clipart-images-qy5VrQ-clipart.png");
+  	background-repeat: no-repeat;
+  	background-color:transparent !important;
+  	border:none !important;
+}
